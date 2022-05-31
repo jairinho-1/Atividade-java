@@ -53,7 +53,7 @@ public class Estudante extends Pessoa {
 		
 	public String toString() {
 		
-		String str = "Nome:"+this.getNome()+"|Endereço:"+this.getEndereco()+"\n";
+		String str = "Nome:"+this.getNome()+"|Endereï¿½o:"+this.getEndereco()+"\n";
 		
 		for(int i =0; i < notas.size(); i++) {
 			
